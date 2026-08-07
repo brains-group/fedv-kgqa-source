@@ -1,3 +1,5 @@
+# FedV-KGQA: Vertical Federated Learning for Knowledge Graph Question Answering
+
 This repository contains the source code for the vertical federated knowledge graph question answering experiments.
 
 ## Repository Structure
