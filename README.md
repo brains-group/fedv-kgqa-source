@@ -1,6 +1,4 @@
-# Anonymized Source Code Repository
-
-This repository contains the anonymized source code for the vertical federated knowledge graph question answering experiments.
+This repository contains the source code for the vertical federated knowledge graph question answering experiments.
 
 ## Repository Structure
 
@@ -41,3 +39,17 @@ Before running any experiment, open the relevant `run.tex` file and follow its i
 ## Note
 
 This repository is prepared for anonymous review. The interactive demo and model checkpoint instructions are provided separately in the anonymized demo repository.
+
+## Citation
+
+If you use this source code in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{khan2026FedVKGQA,
+    author = {Md Saikat Islam Khan Bappy and Oshani Seneviratne},
+    title = {{FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs}},
+    year = {2026},
+    booktitle = {Proceedings of the International Semantic Web Conference (ISWC)},
+}
+```
+
