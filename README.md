@@ -40,7 +40,7 @@ Before running any experiment, open the relevant `run.tex` file and follow its i
 
 ## Note
 
-This repository is prepared for anonymous review. The interactive demo and model checkpoint instructions are provided separately in the anonymized demo repository.
+An interactive demo to trace a question is available at: https://github.com/brains-group/fedv-kgqa-prototype.git
 
 ## Citation
 
