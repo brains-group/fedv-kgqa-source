@@ -40,7 +40,7 @@ Before running any experiment, open the relevant `run.tex` file and follow its i
 
 ## Note
 
-An interactive demo to trace a question is available at: https://github.com/brains-group/fedv-kgqa-prototype.git
+An interactive prototype to trace a question is available at: https://github.com/brains-group/fedv-kgqa-prototype.git
 
 ## Citation
 
